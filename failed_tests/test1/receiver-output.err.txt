@@ -1,0 +1,74 @@
+INFO: Setting timeout to 140 ms
+INFO: Setting timeout to 140 ms
+INFO: Setting timeout to 199 ms
+INFO: Setting timeout to 199 ms
+INFO: Setting timeout to 199 ms
+INFO: Setting timeout to 244 ms
+Connection ESTABLISHED
+INFO: Setting timeout to 0 ms
+INFO: Received segment. seq_num = 0, ack_num = 0, , type = 2
+INFO: Received segment. seq_num = 0, ack_num = 0, , type = 3
+receiver: received 1388 bytes of app data
+INFO: Setting timeout to 0 ms
+INFO: Received segment. seq_num = 0, ack_num = 1, , type = 3
+INFO: Received segment. seq_num = 1, ack_num = 1, , type = 3
+receiver: received 1388 bytes of app data
+INFO: Setting timeout to 0 ms
+INFO: Received segment. seq_num = 2, ack_num = 2, , type = 3
+receiver: received 1388 bytes of app data
+INFO: Setting timeout to 0 ms
+INFO: Received segment. seq_num = 3, ack_num = 3, , type = 3
+receiver: received 1388 bytes of app data
+INFO: Setting timeout to 0 ms
+INFO: Received segment. seq_num = 4, ack_num = 4, , type = 3
+receiver: received 1388 bytes of app data
+INFO: Setting timeout to 0 ms
+INFO: Received segment. seq_num = 5, ack_num = 5, , type = 3
+receiver: received 1388 bytes of app data
+INFO: Setting timeout to 0 ms
+INFO: Received segment. seq_num = 6, ack_num = 6, , type = 3
+receiver: received 1388 bytes of app data
+INFO: Setting timeout to 0 ms
+INFO: Received segment. seq_num = 7, ack_num = 7, , type = 3
+receiver: received 1388 bytes of app data
+INFO: Setting timeout to 0 ms
+INFO: Received segment. seq_num = 8, ack_num = 8, , type = 3
+receiver: received 1388 bytes of app data
+INFO: Setting timeout to 0 ms
+INFO: Received segment. seq_num = 9, ack_num = 9, , type = 3
+receiver: received 1388 bytes of app data
+INFO: Setting timeout to 0 ms
+INFO: Received segment. seq_num = 10, ack_num = 10, , type = 3
+receiver: received 1388 bytes of app data
+INFO: Setting timeout to 0 ms
+INFO: Received segment. seq_num = 11, ack_num = 11, , type = 3
+receiver: received 1388 bytes of app data
+INFO: Setting timeout to 0 ms
+INFO: Received segment. seq_num = 12, ack_num = 12, , type = 3
+receiver: received 1388 bytes of app data
+INFO: Setting timeout to 0 ms
+INFO: Received segment. seq_num = 13, ack_num = 13, , type = 3
+receiver: received 1388 bytes of app data
+INFO: Setting timeout to 0 ms
+INFO: Received segment. seq_num = 14, ack_num = 14, , type = 3
+receiver: received 1388 bytes of app data
+INFO: Setting timeout to 0 ms
+INFO: Received segment. seq_num = 15, ack_num = 15, , type = 3
+receiver: received 1388 bytes of app data
+INFO: Setting timeout to 0 ms
+INFO: Received segment. seq_num = 16, ack_num = 16, , type = 3
+receiver: received 1388 bytes of app data
+INFO: Setting timeout to 0 ms
+INFO: Received segment. seq_num = 17, ack_num = 17, , type = 3
+receiver: received 297 bytes of app data
+INFO: Setting timeout to 0 ms
+INFO: Received segment. seq_num = 0, ack_num = 18, , type = 4
+INFO: Setting timeout to 244 ms
+
+Received 23893 bytes in 4.59288 seconds (5202.19 Bps)
+
+Finished receiving file, closing socket.
+INFO: Setting timeout to 244 ms
+INFO: Setting timeout to 244 ms
+INFO: Setting timeout to 268 ms
+Connection successfully closed

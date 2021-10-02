@@ -1,0 +1,17 @@
+Delay: 10ms
+Loss Rate: 8%
+Port Number: 2000
+
+Starting receiver on h2, port 2000... saving data to test/received-data.txt
+Starting sender on h1...
+ERROR: Sender exited with code 1.
+Receiver exited with code 0.
+
+Comparing md5sum of original and received file.
+	Original: 53690215446b1f1097a8719e86959600
+	Received: e24f26f8535cefeacec4df46973dcc91
+
+	FAILED: md5sums did not match!
+
+
+Final Test Result: TestResult.WRONGDATA
