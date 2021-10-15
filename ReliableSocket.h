@@ -6,8 +6,6 @@
  *
  */
 
-// TODO: You'll likely need to add some new types, as you start doing things
-// like updating accept_connection and close_connection.
 enum RDTMessageType : uint8_t {RDT_SYN, RDT_SYNACK, RDT_ACK, RDT_DATA, RDT_CLOSE};
 
 /**
@@ -19,8 +17,6 @@ struct RDTHeader {
 	RDTMessageType type;
 };
 
-// TODO: Again, you'll likely need to add new statuses (is that a word?) as
-// you start implementing the reliable protocol.
 enum connection_status { INIT, ESTABLISHED, FIN, CLOSED};
 
 /**
@@ -30,10 +26,6 @@ enum connection_status { INIT, ESTABLISHED, FIN, CLOSED};
  */
 class ReliableSocket {
 public:
-	/*
-	 * You probably shouldn't add any more public members to this class.
-	 * Any new functions or fields you need to add should be private.
-	 */
 	
 	// These are constants for all reliable connections
 	static const int MAX_SEG_SIZE  = 1400;
@@ -96,8 +88,6 @@ private:
 	int current_rtt;
 	int dev_rtt;
 	connection_status state;
-
-	// In the (unlikely?) event you need a new field, add it here.
 
 	/**
 	 * Sets the timeout length of this connection.

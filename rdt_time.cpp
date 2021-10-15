@@ -3,7 +3,6 @@
  *
  * Reliable data transport (RDT) timing library implementation.
  *
- * DO NOT MODIFY THIS FILE!
  */
 #include "rdt_time.h"
 
